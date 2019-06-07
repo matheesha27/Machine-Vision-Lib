@@ -8,3 +8,5 @@ In this part of the assignment, the following parts are covered.
   4. Running a two-layer fully-connected (FC) network for CIFAR-10 in tensorflow.
 
 The code snippets are given in the "Codes" folder and the notebook file is also included.
+
+Further, explnations and results can be found in the Report.pdf.
